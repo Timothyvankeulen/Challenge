@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+div#wrapper {
+    margin:auto;
+    width:550px;
+    padding:20px;
+}
+
+body {
+    font-family:"Oswald","sans-serif";
+}
+
+header {
+    margin-bottom:0px;
+}
+
+nav {
+    margin-bottom:20px;
+    background-color: black;
+    width:200px;
+    height:100px;
+}
+
+nav a {
+    margin-bottom:20px;
+    color:white;
+    text-decoration: none;
+}
